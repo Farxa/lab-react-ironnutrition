@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Row, Col, Divider, Input, Button } from "antd"
+import { Card, Col, Button } from "antd"
 import { v4 as uuid } from 'uuid';
 
 export default function FoodBox(props) {
