@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 .App-header {
   min-height: 30vh;
